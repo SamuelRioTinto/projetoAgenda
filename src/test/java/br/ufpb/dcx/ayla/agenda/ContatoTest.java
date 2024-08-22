@@ -13,4 +13,5 @@ public class ContatoTest {
         assertEquals(11,contato1.getDiaAniversario());
         assertEquals(9,contato1.getMesAniversario());
     }
+
 }
